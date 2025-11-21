@@ -1,6 +1,6 @@
 <?php
 $nama = "Website Wisata Sederhana";
-$wisata = ["Borobudur", "Kuta", "TMII", "Kota Tua"];
+$wisata = ["Borobudur", "Kuta", "TMII", "Kota Muda"];
 ?>
 <!DOCTYPE html>
 <html>
